@@ -1,0 +1,5 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+#ignotamos siempre en proyectos de python la carpeta con el entorno 
+_env/
+# si queremos ignorar un documento escribimos su nombre completo 
+datos_personales.xlsx
