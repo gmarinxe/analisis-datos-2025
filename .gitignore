@@ -2,4 +2,4 @@
 #ignotamos siempre en proyectos de python la carpeta con el entorno 
 _env/
 # si queremos ignorar un documento escribimos su nombre completo 
-datos_personales.xlsx
+#datos_personales.xlsx
