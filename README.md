@@ -17,5 +17,5 @@ Este preposotorio registra mi proceso de aprendizaje para los temas visto en el 
 
 Para mas informacion sobre este repositorio, dudas y demas redirigirse al siguiente enlace:
 
-www.ingdiegorv.com ## es para contacto para proyectos elaborados 
+(https://www.linkedin.com/in/gerardo-marin-5901ab186/) ## es para contacto para proyectos elaborados 
 
